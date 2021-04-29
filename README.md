@@ -4,6 +4,8 @@
  
  Your task if you are up for a challenge is to apply the same concepts as explained to make a sign up form.
 
+# include()
+This is to utilize elements and variables referencinf FROM an external file.
 
 # Steps:
 First, download and set-up a local server of your choice.
